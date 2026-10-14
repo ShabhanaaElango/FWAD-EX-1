@@ -1,11 +1,14 @@
 
 EX-1 Developing a Simple Webserver
+
 Date:
 
 AIM:
+
 To develop a simple webserver to serve html pages and display the Windows Specifications of your Laptop.
 
 DESIGN STEPS:
+
 Step 1:
 HTML content creation.
 
@@ -41,4 +44,5 @@ PROGRAM:
 OUTPUT:
 
 RESULT:
+
 The program for implementing simple webserver is executed successfully.
